@@ -1,0 +1,90 @@
+[
+  {
+    "StudentId": 2010991456,
+    "StudentName": "Akash",
+    "Address": "Bilaspur",
+    "Total_Marks_Obtained": 315,
+    "Average": 63,
+    "Grade": "D"
+  },
+  {
+    "StudentId": 9912345678,
+    "StudentName": "Lucky",
+    "Address": "Uttar Pradesh",
+    "Total_Marks_Obtained": 368,
+    "Average": 73,
+    "Grade": "C"
+  },
+  {
+    "StudentId": 2010991105,
+    "StudentName": "Sood Saab",
+    "Address": "Hatwas",
+    "Total_Marks_Obtained": 465,
+    "Average": 93,
+    "Grade": "A"
+  },
+  {
+    "StudentId": 2010991145,
+    "StudentName": "Dhananjay",
+    "Address": "Zirakpur",
+    "Total_Marks_Obtained": 316,
+    "Average": 63,
+    "Grade": "D"
+  },
+  {
+    "StudentId": 2010991456,
+    "StudentName": "Anuj Gupta",
+    "Address": "Himachal",
+    "Total_Marks_Obtained": 371,
+    "Average": 74,
+    "Grade": "C"
+  },
+  {
+    "StudentId": 8718791839,
+    "StudentName": "Maninder",
+    "Address": "Patiala",
+    "Total_Marks_Obtained": 425,
+    "Average": 85,
+    "Grade": "B"
+  },
+  {
+    "StudentId": 1235678000,
+    "StudentName": "Anuj Gupta",
+    "Address": "nmcxn ,mnc,mv n",
+    "Total_Marks_Obtained": null,
+    "Average": null,
+    "Grade": "undefined"
+  },
+  {
+    "StudentId": 1235678902,
+    "StudentName": "Anuj Gupta",
+    "Address": "dxmkcmkdcmk",
+    "Total_Marks_Obtained": 446,
+    "Average": 89,
+    "Grade": "B"
+  },
+  {
+    "StudentId": 1235678008,
+    "StudentName": "Vijay Kumar",
+    "Address": "lkjjdkjkfrfj",
+    "Total_Marks_Obtained": 419,
+    "Average": 83,
+    "Grade": "B"
+  },
+  {
+    "StudentId": 2010991456,
+    "StudentName": "Rakesh Kumar",
+    "Address": "Himachal Pradesh",
+    "Total_Marks_Obtained": 412,
+    "Average": 82,
+    "Grade": "B"
+  },
+  {
+    "StudentId": 2010991456,
+    "StudentName": "Anil Dhawan",
+    "Address": "Punjab",
+    "Total_Marks_Obtained": 401,
+    "Average": 80,
+    "Grade": "B"
+  }
+]
